@@ -1,0 +1,22 @@
+@charset "utf-8";
+.banner .siteimage {
+}
+.fluid {
+    height: 100%;
+    width: 100%;
+}
+.sitetitle {
+    color: #F17D7F;
+    text-align: center;
+    font-weight: 900;
+    font-size: 82px;
+}
+.siteimage {
+    width: 100%;
+    height: 250px;
+}
+
+
+
+.fluid {
+}
